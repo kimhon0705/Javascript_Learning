@@ -1,0 +1,18 @@
+... spread operator
+
+dùng để copy 1 array hay một object
+
+|| or hoặc
+&& and và
+
+true || false  => true
+true && false => false
+
+ternery operator 
+condition ? true : false
+
+DOM  Document Object Modal
+
+b1: Tìm element
+b2: add sự kiện cho nó
+b3: viết function xử lý

@@ -1,0 +1,22 @@
+Tạo 1 file HTML
+
+tạo 1 div có text là Color
+
+tạo 3 button tên lần lượt là: Red, Blue, Dark
+
+khi click vào button => text sẽ chuyển sang màu tương ứng với button
+
+
+Bai tap:
+
+Viết HTML có ô username, password và nút Login
+
+Khi bấm vào nút login, sẽ ẩn ô username và password sau đó hiện chữ login successfully
+
+
+
+Tạo repo tên Javascript_Learning
+
+tạo branch develop
+
+đưa code lên develop

@@ -1,0 +1,16 @@
+1. Data type (Kiểu Dữ Liệu)
+2. Variable (Biến)
+3. Cách khai báo Biến
+4. Phép toán
+5. if condition
+6. switch condition
+
+Bài tập
+Lập trình 1 máy tính +, -, *, /
+ 
+
+number = 1 number2 = 5
++ 
+-
+*
+/ 

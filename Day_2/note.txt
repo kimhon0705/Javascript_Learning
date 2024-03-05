@@ -1,0 +1,12 @@
+1. Array
+2. Object
+3. For
+
+Exercise:
+Tạo 1 array chưa số bất kỳ ví dụ: [12, 23, 64, 42, 76, 45, 78, 34, 12, 36]
+Dùng vòng lập for và so sánh để tìm ra số lớn nhất trong array.
+
+>, <, >=, <=.
+for (let i = 0; i < arr.length; i++) {
+    logic
+}
